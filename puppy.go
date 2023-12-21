@@ -1,5 +1,7 @@
 package puppy
 
+// Dependency on dog repository
+
 import (
 	"fmt"
 
