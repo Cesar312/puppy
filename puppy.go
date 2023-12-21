@@ -1,6 +1,7 @@
 package puppy
 
-// Dependency on dog repository
+// NOTE: Dependency on dog repository
+// Indirect dependency to main.go in golang repository
 
 import (
 	"fmt"
